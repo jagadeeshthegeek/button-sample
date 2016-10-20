@@ -25,8 +25,5 @@ heroku open
 
 Alternatively, you can deploy your own copy of the app using this button:
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://github.com/jagadeeshthegeek/heroku-button-sample)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jagadeeshthegeek/heroku-button-sample)
 
-## Documentation
-
-For more information about using Heroku, check out https://devcenter.heroku.com/
